@@ -1,2 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz kapsamında açtığım ilk repo
+# Başlık
+*ilk proje
+![Lorem Picsum Görsel](https://picsum.photos/200/300)
